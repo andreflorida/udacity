@@ -1,4 +1,4 @@
-# udacity
+# Udacity Portfolio Project
 First Udacity Front-End Nanodegree Project 
 
 ## Overview 
